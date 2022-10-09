@@ -1,1 +1,1 @@
-# some_mlops_for_fun
+## This repo created for some basic application for mlops
